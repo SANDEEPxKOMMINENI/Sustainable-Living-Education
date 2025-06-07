@@ -31,7 +31,7 @@ The Sustainable Living Platform is a comprehensive web application designed to p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sustainable-living-platform.git
+   git clone https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education.git
    cd sustainable-living-platform
    ```
 
